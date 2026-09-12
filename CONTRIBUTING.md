@@ -10,3 +10,8 @@ All contributions, bug reports, bug fixes, documentation improvements, enhanceme
 # Contributing
 
 All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
+# Contributing Guide
+
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
+
+Thank you for helping improve this project!

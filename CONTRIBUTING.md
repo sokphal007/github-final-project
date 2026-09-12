@@ -7,3 +7,6 @@ All contributions, bug reports, bug fixes, documentation improvements, enhanceme
 2. Create a new branch for your feature or bug fix.
 3. Commit your changes with clear messages.
 4. Push to your branch and submit a Pull Request.
+# Contributing
+
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
